@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Cositas</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="text_notifications">Hola, Estás en las notificaciones</string>
+    <string name="textView3">Hola, Bienvenide</string>
+    <string name="textView4">Ingresa tu nombre</string>
+
+</resources>
